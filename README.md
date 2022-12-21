@@ -1,6 +1,6 @@
 # app-dev
 My first repository
 
-#Favorties series/movies
+#Favorties series/movies :joy:
 - Isekai Ojisan
 - Konosuba
